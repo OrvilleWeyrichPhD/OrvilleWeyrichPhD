@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrvilleWeyrichPhD.
 - 👀 I’m interested in Data Science, Artificial Intelligence, and Software Engineering.
-- 🌱 I’m currently learning Python, and reviewing my past skills (I have been out of the technical world for a while).
+- 🌱 I’m currently learning R and Python, and reviewing my past skills like Perl and Java (I have been out of the technical world for a while).
 - 💞️ I’m looking to collaborate on upgrading my past projects (to be posted) as well as new stuff according to my interests (above).
 - 📫 How to reach me ... info@orvilleweyrich.com and check out my work history and skills at https://orvilleweyrich.com
 - ⚡ Fun fact: My first experience in programming was on a TI-59 calculator doing chemical models circa 1977.
